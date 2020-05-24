@@ -1412,15 +1412,15 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K051300GUK3F71M</string>
+			<string></string>
 			<key>ROM</key>
-			<data>HBsN4mBq</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
-			<key>SystemSerialNumber</key>
-			<string>YourSerialNumber</string>
+			<key></key>
+			<string></string>
 			<key>SystemUUID</key>
 		</dict>
 		<key>UpdateDataHub</key>
