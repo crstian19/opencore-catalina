@@ -2,6 +2,8 @@
 
 Sharing my OpenCore setup
 
+![](https://i.redd.it/nk00muqabxm41.jpg)
+
 ## Hardware:
 Ryzen 2600
 Gigabyte B450M-DS3H
